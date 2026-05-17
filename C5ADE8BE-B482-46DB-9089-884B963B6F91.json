@@ -1,0 +1,23 @@
+{
+  "vendor_name": "B2S บริษัท บีทูเอส จำกัด",
+  "transaction_date": "2025-12-04",
+  "items": [
+    {
+      "name": "DOUBLE A 80G A4 PACK",
+      "price": 45.0
+    },
+    {
+      "name": "SHIH-TZU กระดาษ 70G",
+      "price": 98.0
+    },
+    {
+      "name": "ONEกระดาษสี80G A4#6",
+      "price": 70.0
+    },
+    {
+      "name": "AANกระดาษสี R2 80G 25",
+      "price": 25.0
+    }
+  ],
+  "total_amount": 224.0
+}

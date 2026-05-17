@@ -1,0 +1,81 @@
+{
+    "4AEB2BA0-9472-4228-ABBA-D7DAAA6A5F00": {
+        "vendor_name": "อิมพีเรียล ดิจิตอลแล็ป",
+        "transaction_date": "2026-02-07",
+        "total_amount": 294.0,
+        "items": [
+            {
+                "name": "ค่าปริ้นรูป",
+                "price": 294.0
+            }
+        ]
+    },
+    "54CB129E-60A2-4471-9A48-F7F9ECB7A077": {
+        "vendor_name": "บริษัท ดิจิทัล โซลูชั่น เวิร์ก จำกัด",
+        "transaction_date": "2026-02-28",
+        "total_amount": 8025.0,
+        "items": [
+            {
+                "name": "ค่าเช่า Cloud Server ประจำเดือน ก.พ.",
+                "price": 5000.0
+            },
+            {
+                "name": "ค่าบริการ Maintenance ระบบฐานข้อมูล",
+                "price": 2500.0
+            }
+        ]
+    },
+    "61464734-5C30-4B37-AE0D-C48965193FAF": {
+        "vendor_name": "Star world Premium&Shipping",
+        "transaction_date": "2025-10-25",
+        "total_amount": 4750.0,
+        "items": [
+            {
+                "name": "กระบอกน้ำเก็บความเย็นมีหูพร้อมบรรจุภัณฑ์ -กระบอกสีขาว -สกรีนชื่อมหาวิทยาลัยแบบเต็ม(สีแดง)",
+                "price": 4750.0
+            }
+        ]
+    },
+    "C5ADE8BE-B482-46DB-9089-884B963B6F91": {
+        "vendor_name": "บริษัท บีทูเอส จำกัด",
+        "transaction_date": "2025-12-04",
+        "total_amount": 224.0,
+        "items": [
+            {
+                "name": "DOUBLE A 80G A4 PACK",
+                "price": 45.0
+            },
+            {
+                "name": "SHIH-TZU กระดาษ 70G",
+                "price": 98.0
+            },
+            {
+                "name": "ONEกระดาษสี80G A4#6",
+                "price": 70.0
+            },
+            {
+                "name": "AAกระดาษสี R2 80G 25",
+                "price": 25.0
+            }
+        ]
+    },
+    "D31588A4-A2E6-4668-98C0-050E8979A9D0": {
+        "vendor_name": "ร้านสะดวกซื้อ มหาวิทยาลัย (สาขา 004)",
+        "transaction_date": "2026-03-03",
+        "total_amount": 170.00,
+        "items": [
+            {
+                "name": "กระดาษ A4 Double A (500แผ่น)",
+                "price": 120.00
+            },
+            {
+                "name": "ปากกาลูกลื่น น้ำเงิน x 3",
+                "price": 45.00
+            },
+            {
+                "name": "กาแฟกระป๋อง",
+                "price": 15.00
+            }
+        ]
+    }
+}
